@@ -1,0 +1,16 @@
+.message{
+    height: 150px;
+    width: 400px;
+    background-color: lightgray;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.to_top{
+    text-align: center;
+    margin: 0 auto
+}

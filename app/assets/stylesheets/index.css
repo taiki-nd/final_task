@@ -1,0 +1,43 @@
+
+.form{
+    height: 80px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-around;
+}
+
+.text{
+    width: 450px;
+    height: 40px;
+    border: none;
+    padding: 0 15px;
+    margin: 20px 0;
+}
+
+.send{
+    background-color: lightblue;
+    width: 70px;
+    height: 40px;
+    border: none;
+    margin: 20px 0;
+}
+
+.posts{
+    width: 560px;
+    height: 100%;
+    margin: 0 auto;
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+
+.content{
+    width: 500px;
+    border: 1px solid;
+    background-color: white;
+    margin: 10px auto;
+    padding: 10px ;
+}
